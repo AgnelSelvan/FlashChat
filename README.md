@@ -17,14 +17,14 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Installing this application
 
-###### $ git clone https://github.com/AgnelSelvan/FlashChat.git
+##### $ git clone https://github.com/AgnelSelvan/FlashChat.git
 
 after downloading extract and go to the project directory.
 
 Make sure you already installed the flutter if not [install now](https://flutter.dev/docs/get-started/install)
 
-###### flutter pub get
+##### $ flutter pub get
 
-###### flutter run
+##### $ flutter run
 
 Hurrah! and you are ready to go 🚀️
